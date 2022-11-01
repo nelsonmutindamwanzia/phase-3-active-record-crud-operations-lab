@@ -1,0 +1,21 @@
+=> [[32m#<Movie:0x0000564587722c98[0m
+  id: [1;34m3[0m,
+  title: [31m[1;31m"[0m[31mNebraska[1;31m"[0m[31m[0m,
+  release_date: [1;34m2013[0m,
+  director: [31m[1;31m"[0m[31mAlexander Payne[1;31m"[0m[31m[0m,
+  lead: [31m[1;31m"[0m[31mBruce Dern[1;31m"[0m[31m[0m,
+  in_theaters: [1;36mtrue[0m[32m>[0m,
+ [32m#<Movie:0x0000564587722bd0[0m
+  id: [1;34m4[0m,
+  title: [31m[1;31m"[0m[31mMuppets Most Wanted[1;31m"[0m[31m[0m,
+  release_date: [1;34m2014[0m,
+  director: [31m[1;31m"[0m[31mJames Bobin[1;31m"[0m[31m[0m,
+  lead: [31m[1;31m"[0m[31mTom Hiddleston[1;31m"[0m[31m[0m,
+  in_theaters: [1;36mtrue[0m[32m>[0m,
+ [32m#<Movie:0x0000564587722ae0[0m
+  id: [1;34m5[0m,
+  title: [31m[1;31m"[0m[31mZero Dark Thirty[1;31m"[0m[31m[0m,
+  release_date: [1;34m2012[0m,
+  director: [31m[1;31m"[0m[31mKathryn Bigelow[1;31m"[0m[31m[0m,
+  lead: [31m[1;31m"[0m[31mJessica Chastain[1;31m"[0m[31m[0m,
+  in_theaters: [1;36mfalse[0m[32m>[0m]
